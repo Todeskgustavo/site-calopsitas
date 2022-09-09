@@ -44,8 +44,8 @@ header > p {
 section.normal > h1 {
     padding-bottom: 25px;
     font-family: var(--fonte3);
+    line-height: 40px;
 }
-
 section#img1 {
     background-image: url(../imagens/91oahuz3idh0f0ts7hxfml1p6.jpg);
     background-position: top center;
